@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationlakeelsinore.com/sitemap.xml
